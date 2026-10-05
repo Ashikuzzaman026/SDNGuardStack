@@ -337,6 +337,7 @@ https://ieeexplore.ieee.org/document/11502458
   pages     = {638--643},
   publisher = {IEEE},
   year      = {2026}
+doi       = {10.1109/CSNT69054.2026.11502458}
 }
 ```
 
